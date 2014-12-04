@@ -15,7 +15,7 @@ else
           	 
 for (int x=2;x<1000;x++) {
 if (metodoMio(x))
-System.out.print(x + " ");                         	 
+System.out.print(x + " comentario");                         	 
 }         	 
 	}
 public static boolean metodoMio(int variable){
